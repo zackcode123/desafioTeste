@@ -1,0 +1,3 @@
+[0712/133634.070:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Dell\AppData\Local\Temp\scoped_dir368_26687562\Crashpad\settings.dat: O arquivo já está sendo usado por outro processo. (0x20)
+[0712/180400.219:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Dell\AppData\Local\Temp\scoped_dir9348_2058098620\Crashpad\settings.dat: O arquivo já está sendo usado por outro processo. (0x20)
+[0714/214404.446:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Dell\AppData\Local\Temp\scoped_dir11456_905507101\Crashpad\settings.dat: O arquivo já está sendo usado por outro processo. (0x20)
